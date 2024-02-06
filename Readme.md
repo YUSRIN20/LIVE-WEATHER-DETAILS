@@ -2,6 +2,9 @@
 
 This project is a live weather details web application that fetches weather data from the OpenWeatherMap API based on user input. It's built using HTML, CSS, and JavaScript, with responsive design utilizing Bootstrap framework. The application dynamically creates DOM elements to display weather information and incorporates error handling for better user experience.
 
+## Demo:
+
+Check out the live demo [click-here](https://live-weather-details-app.netlify.app/)
 ## Features:
 
 1. **Live Weather Information:**
